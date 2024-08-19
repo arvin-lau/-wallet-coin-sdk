@@ -1,4 +1,4 @@
-module wallet-coin-sdk
+module github.com/arvin-lau/-wallet-coin-sdk
 
 go 1.17
 
